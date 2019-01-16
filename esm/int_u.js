@@ -1,4 +1,4 @@
-export function int_u (value, padTo = 4) {
+export function int_u (value, padTo = 0) {
   let uint = []
 
   do {
