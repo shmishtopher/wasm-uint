@@ -1,0 +1,32 @@
+{
+  "name": "wasm-uint",
+  "version": "1.0.0",
+  "private": false,
+  "description": "uint utilities for WebAssembly",
+  "main": "lib/index.js",
+  "module": "esm/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shmishtopher/wasm-uint.git"
+  },
+  "keywords": [
+    "wasm",
+    "wasm-codegen",
+    "wasm-bytecode",
+    "webassembly",
+    "uint",
+    "little-endian"
+  ],
+  "author": "Shmish <shmish90@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shmishtopher/wasm-uint/issues"
+  },
+  "homepage": "https://github.com/shmishtopher/wasm-uint#readme"
+}
